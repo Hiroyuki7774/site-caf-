@@ -1,0 +1,15 @@
+.cabeçalho{background-color: #aa7400; color: black; display: flex;justify-content: space-around;
+    align-items: center;padding: 24px 24px;}
+.cabeçalho-imagem{width:10%;}
+.cabeçalho-lista-intem{margin: 30px 30px; font-size: 30px; display: inline-block;}
+.local{background-image: linear-gradient(#aa7400,#aa7400);color: rgb(255, 252, 250);
+     display: flex;justify-content: space-around; align-items: center;padding: 24px 24px;}
+     .local-imagem{width: 10%;}
+.local-título{padding: 24px ;}
+.produtos{background-color: #aa7400; color: black;}
+.produtos-imagem{width: 10px 0;}
+.produtos-todos{display: grid; grid-template-columns: 33% 34% 33%;}
+.produtos-ind{text-align: center;}
+.produtos-título{text-align: center;font-size: 30px 0;padding: 34px 0;}
+.rodapé{background-color: black;text-align: center;}
+.rodapé-ícone{width: 10%;height: 20px 0;padding: 24px 0;}
